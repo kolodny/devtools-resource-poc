@@ -1,3 +1,5 @@
+### [Video](http://youtu.be/WITFrO6F9sQ)
+
 1. install this extension
 2. open up test.html in browser
 3. open devtools and pop out
